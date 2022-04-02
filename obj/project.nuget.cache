@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OzRTbKIA5kXHSPaEjbWAmfbHpmpgGqKXMKia4lRurqC7ZFfmI7YIOstO/2caUYrF448kmu3UE9sqgWFfO4Hb9A==",
+  "success": true,
+  "projectFilePath": "D:\\Solutions\\CSharp\\ReleaseCreator\\Bars.GitUtils\\Bars.GitUtils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\libgit2sharp\\0.26.2\\libgit2sharp.0.26.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\libgit2sharp.nativebinaries\\2.0.306\\libgit2sharp.nativebinaries.2.0.306.nupkg.sha512"
+  ],
+  "logs": []
+}
