@@ -81,33 +81,6 @@
           }
         }
       }
-    },
-    "net6.0/win-x64": {
-      "LibGit2Sharp/0.26.2": {
-        "type": "package",
-        "dependencies": {
-          "LibGit2Sharp.NativeBinaries": "[2.0.306]"
-        },
-        "compile": {
-          "lib/netstandard2.0/LibGit2Sharp.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/LibGit2Sharp.dll": {}
-        }
-      },
-      "LibGit2Sharp.NativeBinaries/2.0.306": {
-        "type": "package",
-        "native": {
-          "runtimes/win-x64/native/git2-106a5f2.dll": {},
-          "runtimes/win-x64/native/git2-106a5f2.pdb": {}
-        },
-        "build": {
-          "build/LibGit2Sharp.NativeBinaries.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/LibGit2Sharp.NativeBinaries.props": {}
-        }
-      }
     }
   },
   "libraries": {
@@ -228,11 +201,6 @@
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
-      }
-    },
-    "runtimes": {
-      "win-x64": {
-        "#import": []
       }
     }
   }
